@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+hrml,body {
+    height: 100%;
+    width: 100%;
+    background-color: #111;
+}
+
+#container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;    
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    background-color: crimson;
+}
+
+.box2 {
+    height: 100px;
+    width: 100px;
+    background-color: #56d56d;
+}
+
+
+.box3 {
+    height: 100px;
+    width: 100px;
+    background-color: #1f1efd;
+}
